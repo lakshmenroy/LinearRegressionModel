@@ -37,8 +37,3 @@ This repository contains Python code for two different classification tasks:
 - `multiclass_classification.py`: Python script for training and evaluating the multiclass classification model.
 - `README.md`: Markdown file containing instructions and information about the repository.
 
-## Note
-- Both scripts contain detailed comments explaining each step of the process, including data generation, model creation, training, evaluation, and visualization.
-- Feel free to modify the hyperparameters, network architecture, or any other aspect of the models to experiment with different configurations.
-
-Enjoy experimenting with the binary and multiclass classification models! If you have any questions or feedback, feel free to reach out.
