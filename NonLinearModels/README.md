@@ -20,7 +20,11 @@ This repository contains Python code for two different classification tasks:
 - Install the required dependencies using pip:
 ```python
 # Install dependencies
-!pip install torch numpy matplotlib scikit-learn torchmetrics
+!pip install torchmetrics
+!pip install torch
+!pip install numpy
+!pip install matplotlib
+!pip install scikit-learn
 ```
 ### 2. Running the Code
 - The code is organized into two separate Python scripts: `binary_classification.py` and `multiclass_classification.py`.
