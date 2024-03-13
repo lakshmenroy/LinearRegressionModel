@@ -35,5 +35,4 @@ This repository contains Python code for two different classification tasks:
 ## Files Included
 - `binary_classification.py`: Python script for training and evaluating the binary classification model.
 - `multiclass_classification.py`: Python script for training and evaluating the multiclass classification model.
-- `README.md`: Markdown file containing instructions and information about the repository.
 
