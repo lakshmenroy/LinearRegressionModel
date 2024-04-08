@@ -21,7 +21,7 @@ This repository contains two PyTorch models for image classification trained on 
     - Linear layer
 - **Training Procedure:** Trained on custom dataset using stochastic gradient descent (SGD) optimizer.
 - **Initialization:** Random initialization of weights.
-- **Evaluation Results:** To be filled after evaluation.
+- **Evaluation Result:** To be filled after evaluation.
 
 ### Model 1
 - **Name:** TinyVGG_Model1
@@ -30,7 +30,7 @@ This repository contains two PyTorch models for image classification trained on 
   - Same as Model 0
 - **Training Procedure:** Trained on augmented custom dataset using stochastic gradient descent (SGD) optimizer.
 - **Initialization:** Random initialization of weights.
-- **Evaluation Results:** To be filled after evaluation.
+- **Evaluation Result:** To be filled after evaluation.
 
 ## Additional Notes
 
