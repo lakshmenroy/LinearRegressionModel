@@ -1,6 +1,6 @@
 # Binary and Multiclass Classification Models
 
-This repository contains Python code for two different classification tasks:
+This repository contains Python code for two different classification task:
 
 1. **Binary Classification Model**: This model is trained to classify data into two classes. It utilizes a neural network architecture built using PyTorch to fit a binary classification dataset generated using the `make_moons` function from Scikit-Learn.
 
